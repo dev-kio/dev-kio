@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **TypeScript, NodeJS, Figma**
 
-- 👨‍💻 All of my projects are available at [devkio.com](devkio.com)
+- 👨‍💻 All of my projects are available [here](https://www.devkio.com)
 
 - 💬 Ask me about **React, NextJS**
 
